@@ -1,6 +1,6 @@
 # SQL-Project
 
-Task in this assignment is to calculate a bushfire risk score with regard to bushfire protection
+This assignment is to calculate a bushfire risk score with regard to bushfire protection
 for different neighbourhoods in Sydney. The neighbourhood ’score’ is expressed as a measure
 of several factors which we assume to affect the risk of bush fires within an area vegetation,
 population density, number of dwellings etc.
